@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pantmayank/RESTful-api-project/issues"
   },
-  "homepage": "https://github.com/pantmayank/RESTful-api-project#readme"
+  "homepage": "https://github.com/pantmayank/RESTful-api-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
