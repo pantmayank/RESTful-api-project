@@ -9,3 +9,5 @@
 5. Check your json response at localhost:3000
 
 - Each route goes into app.use() and are redirected to the required routes defined in the [api folder](api) . Desired request are managed using different RESTful-api defined in each specific route file.
+
+* Using nodemon for auto-reloding the server and morgan to funnel the requests through it and produce a console.log(), and used error handling by handling 404 error and all other errors that may occur.
